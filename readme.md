@@ -1,4 +1,4 @@
-🔴 LOOKS PRETTY DEAD 🔴 LOOKS NOT PRETTY MUCH NOTHING HAS HAPPENED HERE 🔴
+🔴 LOOKS PRETTY DEAD 🔴 LOOKS LIKE PRETTY MUCH NOTHING HAS HAPPENED HERE 🔴
 
 🟢 See https://github.com/rusefi/proteus-Honda-OBD2A-adapter for a much happier adapter board 🟢
 
